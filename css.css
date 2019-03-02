@@ -1,0 +1,83 @@
+body {
+	background-image: url("https://i.pinimg.com/originals/56/e3/54/56e354941450b8071968bf6454c31839.jpg") ; 
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+
+
+
+
+
+}
+
+
+h1 {
+
+	color: white;
+	font-size: 90px;
+	background: -webkit-linear-gradient(white, #3b5999);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+section {
+
+}
+
+
+form {
+font-size: 70px;
+padding-left: 250px;
+
+}
+
+
+p {
+	background: -webkit-linear-gradient(white, red);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+
+}
+
+
+
+input {
+background-color: transparent;
+<padding-left: 60px;
+padding-right: 60px;
+color: white;
+padding-left: 60px;
+padding-right: 60px;
+padding-bottom: 10px;
+padding-top: 10px;
+text-align: all;
+
+
+}
+
+button {
+background-color: #3b5999;
+color: white;
+padding-right: 60px;
+padding-left: 60px;
+padding-bottom: 10px;
+padding-top: 10px;
+box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+border-radius: 20px;
+position: relative;
+top: -40px;
+left: 50px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
